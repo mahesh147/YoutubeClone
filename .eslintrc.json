@@ -1,0 +1,14 @@
+{
+    "extends": ["standard", "standard-react"],
+
+    "rules": {
+        "semi": 0,
+        "indent":0,
+        "react/jsx-indent": 0,
+        "react/jsx-indent-props": 0,
+        "react/jsx-uses-vars": "error",
+        "react/react-in-jsx-scope": 1,
+        "jsx-quotes": 0
+        
+    }
+}
